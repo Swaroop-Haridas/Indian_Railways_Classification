@@ -10,17 +10,17 @@ Many portfolio projects rely on pre-processed or synthesized datasets. This proj
 
 ### Exploratory Data Analysis
 
-![EDA Overview](eda_overview.png)
+![EDA Overview](figures/eda_overview.png)
 
 ### Model Performance
 
-![Confusion Matrix](confusion_matrix.png)
-![Correlation Heatmap](correlation_heatmap.png)
+![Confusion Matrix](figures/confusion_matrix.png)
+![Correlation Heatmap](figures/correlation_heatmap.png)
 
 ### Model Explainability
 
-![Feature Importance](feature_importance.png)
-![SHAP Feature Importance](shap_summary_per_class.png)
+![Feature Importance](figures/feature_importance.png)
+![SHAP Feature Importance](figures/shap_summary_per_class.png)
 
 ## Tech Stack
 
