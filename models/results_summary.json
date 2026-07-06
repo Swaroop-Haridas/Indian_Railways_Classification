@@ -1,0 +1,6 @@
+{
+  "Dummy (majority class)": 0.17351453855878635,
+  "Logistic Regression": 0.7706843730771041,
+  "Random Forest": 0.9029513680185026,
+  "Gradient Boosting": 0.8849852626480109
+}
